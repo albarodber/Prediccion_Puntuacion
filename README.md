@@ -5,10 +5,12 @@ ________________________________________________________________________________
 
 Correos electrónicos:
 alba.rberenguel@cunef.edu
+
 maria.zazpe@cunef.edu
 
 Github:
 Alba: https://github.com/albarodber/prediccion_puntuacion
+
 Maria: https://github.com/mariazazpe/practica_final
 ________________________________________________________________________________________________________________________
 
